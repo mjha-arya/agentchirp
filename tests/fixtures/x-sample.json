@@ -1,0 +1,194 @@
+{
+  "date": "2026-10-04",
+  "fetched_at": "2026-10-04T09:48:12.113000+00:00",
+  "window_hours": 24,
+  "post_count": 12,
+  "_note": "FAKE sample data. Invented posts used to exercise brief + voice without touching X.",
+  "creators": [
+    {
+      "name": "DHH",
+      "handle": "dhh",
+      "category": "biggest",
+      "verified": true,
+      "status": "ok",
+      "used_fallback": false,
+      "posts": [
+        {
+          "text": "Spent the weekend letting an agent do the first pass on the Rails 9 queue adapter. It wrote 400 lines I kept and 900 I threw away. The throwing away is the job now.",
+          "time": "2026-10-04T07:12:00.000Z",
+          "url": "https://x.com/dhh/status/1900000000000000001",
+          "likes": 4210,
+          "reposts": 388,
+          "replies": 265
+        },
+        {
+          "text": "Prompt to production is not a slogan, it is an org chart change. If review is still a two-day queue, your agents are just generating backlog faster.",
+          "time": "2026-10-04T05:40:00.000Z",
+          "url": "https://x.com/dhh/status/1900000000000000002",
+          "likes": 2890,
+          "reposts": 501,
+          "replies": 140
+        }
+      ]
+    },
+    {
+      "name": "Simon Willison",
+      "handle": "simonw",
+      "category": "biggest",
+      "verified": true,
+      "status": "ok",
+      "used_fallback": false,
+      "posts": [
+        {
+          "text": "New in my llm CLI: subagent plugins. You can hand a tool a budget in tokens and it refuses to overspend. Writeup and five worked examples on the blog.",
+          "time": "2026-10-04T08:02:00.000Z",
+          "url": "https://x.com/simonw/status/1900000000000000003",
+          "likes": 1980,
+          "reposts": 310,
+          "replies": 96
+        },
+        {
+          "text": "Tested four coding agents on the same brownfield Django repo. The one that read the test suite first won by a mile. Context selection beats model size again.",
+          "time": "2026-10-04T06:15:00.000Z",
+          "url": "https://x.com/simonw/status/1900000000000000004",
+          "likes": 3120,
+          "reposts": 640,
+          "replies": 188
+        },
+        {
+          "text": "Reminder that prompt injection is still unsolved, and every agent you give shell access to is a browser away from someone else's instructions.",
+          "time": "2026-10-04T02:55:00.000Z",
+          "url": "https://x.com/simonw/status/1900000000000000005",
+          "likes": 2440,
+          "reposts": 712,
+          "replies": 121
+        }
+      ]
+    },
+    {
+      "name": "swyx",
+      "handle": "swyx",
+      "category": "biggest",
+      "verified": true,
+      "status": "ok",
+      "used_fallback": false,
+      "posts": [
+        {
+          "text": "The agent engineering stack is consolidating fast: one harness, one eval loop, one trace store. The middle of the market is getting eaten.",
+          "time": "2026-10-04T04:30:00.000Z",
+          "url": "https://x.com/swyx/status/1900000000000000006",
+          "likes": 1510,
+          "reposts": 240,
+          "replies": 73
+        }
+      ]
+    },
+    {
+      "name": "François Chollet",
+      "handle": "fchollet",
+      "category": "academics",
+      "verified": true,
+      "status": "ok",
+      "used_fallback": false,
+      "posts": [
+        {
+          "text": "Writing code is search over programs. Agents are good at the search and bad at knowing when to stop. Stopping criteria is the research problem nobody is funding.",
+          "time": "2026-10-04T01:20:00.000Z",
+          "url": "https://x.com/fchollet/status/1900000000000000007",
+          "likes": 5330,
+          "reposts": 980,
+          "replies": 402
+        }
+      ]
+    },
+    {
+      "name": "Michael Wooldridge",
+      "handle": "wooldridgemike",
+      "category": "academics",
+      "verified": false,
+      "status": "ok",
+      "used_fallback": true,
+      "posts": [
+        {
+          "text": "Multi-agent systems researchers spent thirty years on coordination protocols. The current crop of agent frameworks is rediscovering contract nets, badly.",
+          "time": "2026-10-02T15:05:00.000Z",
+          "url": "https://x.com/wooldridgemike/status/1900000000000000008",
+          "likes": 860,
+          "reposts": 155,
+          "replies": 44
+        }
+      ]
+    },
+    {
+      "name": "Percy Liang",
+      "handle": "percyliang",
+      "category": "academics",
+      "verified": true,
+      "status": "no-posts",
+      "used_fallback": false,
+      "posts": []
+    },
+    {
+      "name": "Riley Brown",
+      "handle": "rileybrown",
+      "category": "new",
+      "verified": false,
+      "status": "ok",
+      "used_fallback": false,
+      "posts": [
+        {
+          "text": "Built and shipped a full iOS habit tracker from my phone in 40 minutes using Claude Code in the browser. Three screens, auth, push. Video in the replies.",
+          "time": "2026-10-04T08:40:00.000Z",
+          "url": "https://x.com/rileybrown/status/1900000000000000009",
+          "likes": 7420,
+          "reposts": 1100,
+          "replies": 330
+        },
+        {
+          "text": "Vibe coding apps is solved. The new frontier is vibe coding the agents that maintain the app after you ship it.",
+          "time": "2026-10-04T03:10:00.000Z",
+          "url": "https://x.com/rileybrown/status/1900000000000000010",
+          "likes": 2210,
+          "reposts": 404,
+          "replies": 118
+        }
+      ]
+    },
+    {
+      "name": "David Shapiro",
+      "handle": "DaveShapi",
+      "category": "new",
+      "verified": false,
+      "status": "ok",
+      "used_fallback": false,
+      "posts": [
+        {
+          "text": "Context engineering is the whole skill. Model choice is a rounding error next to what you put in the window and what you leave out.",
+          "time": "2026-10-04T00:35:00.000Z",
+          "url": "https://x.com/DaveShapi/status/1900000000000000011",
+          "likes": 1340,
+          "reposts": 203,
+          "replies": 87
+        }
+      ]
+    },
+    {
+      "name": "Yuchen Jin",
+      "handle": "Yuchenj_UW",
+      "category": "new",
+      "verified": false,
+      "status": "ok",
+      "used_fallback": false,
+      "posts": [
+        {
+          "text": "Served a 30B coding model at 4x throughput by batching agent tool calls instead of turns. Inference for agents is a different workload and the serving stacks have not caught up.",
+          "time": "2026-10-04T06:50:00.000Z",
+          "url": "https://x.com/Yuchenj_UW/status/1900000000000000012",
+          "likes": 1890,
+          "reposts": 276,
+          "replies": 64
+        }
+      ]
+    }
+  ]
+}

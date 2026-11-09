@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-03",
+  "fetched_at": "2026-10-03T09:50:00+00:00",
+  "window_hours": 24,
+  "post_count": 1,
+  "_note": "FAKE sample data for the light-day path.",
+  "creators": [
+    {
+      "name": "Simon Willison",
+      "handle": "simonw",
+      "category": "biggest",
+      "verified": true,
+      "status": "ok",
+      "used_fallback": false,
+      "posts": [
+        {
+          "text": "Quiet Saturday. One thing worth your time: the new trace viewer in the llm CLI shows every tool call an agent made, with token costs per step.",
+          "time": "2026-10-03T08:20:00.000Z",
+          "url": "https://x.com/simonw/status/1900000000000000020",
+          "likes": 740,
+          "reposts": 88,
+          "replies": 21
+        }
+      ]
+    },
+    {
+      "name": "DHH",
+      "handle": "dhh",
+      "category": "biggest",
+      "verified": true,
+      "status": "no-posts",
+      "used_fallback": false,
+      "posts": []
+    }
+  ]
+}

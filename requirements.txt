@@ -1,0 +1,5 @@
+playwright
+edge-tts
+pyyaml
+requests
+pytest

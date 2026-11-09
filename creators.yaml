@@ -1,0 +1,41 @@
+# AgentChirp creator list — edit freely, one entry per creator.
+#
+#   name:     spoken name, used in the brief ("DHH said ...")
+#   handle:   X handle without the @
+#   verified: true  = handle given by Manish / known good
+#             false = handle found by web search, please eyeball it once
+#
+# Categories are fixed: biggest, academics, new.
+
+biggest:
+  - name: DHH
+    handle: dhh
+    verified: true
+  - name: Simon Willison
+    handle: simonw
+    verified: true
+  - name: swyx
+    handle: swyx
+    verified: true
+
+academics:
+  - name: François Chollet
+    handle: fchollet
+    verified: true
+  - name: Michael Wooldridge
+    handle: wooldridgemike
+    verified: false   # web search 2026-10-05: Ashall Professor of Foundations of AI, Oxford — @wooldridgemike
+  - name: Percy Liang
+    handle: percyliang
+    verified: true
+
+new:
+  - name: Riley Brown
+    handle: rileybrown
+    verified: false   # web search 2026-10-05: cofounder of @vibecodeapp, posts on vibe coding — @rileybrown
+  - name: David Shapiro
+    handle: DaveShapi
+    verified: false   # web search 2026-10-05: "David Shapiro (L/0)", ~58k followers — @DaveShapi
+  - name: Yuchen Jin
+    handle: Yuchenj_UW
+    verified: false   # web search 2026-10-05: ex-CTO Hyperbolic, now Databricks — @Yuchenj_UW
